@@ -1,4 +1,4 @@
-# focuslost-jekyll
+# Focus Lost
 My personal blog, built with jekyll.
 
 ## License
