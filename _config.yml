@@ -15,3 +15,5 @@ markdown: kramdown
 
 # Serving
 host:    0.0.0.0
+
+exclude: ['node_modules', 'Guardfile', 'Gemfile', 'Gemfile.lock', 'package.json']
