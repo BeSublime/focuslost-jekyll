@@ -1,0 +1,23 @@
+{
+  "name": "focuslost-jekyll",
+  "version": "1.0.0",
+  "description": "My personal blog, built with [jekyll](https://github.com/jekyll/jekyll).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeSublime/focuslost-jekyll.git"
+  },
+  "author": "Cory Evan Wright (besublime@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeSublime/focuslost-jekyll/issues"
+  },
+  "homepage": "https://github.com/BeSublime/focuslost-jekyll",
+  "scripts": {
+    "start":  "tmux new -d -s 'jekyll' 'bundle exec jekyll serve' && guard",
+    "stop":   "tmux kill-session -t jekyll"
+  }
+}
