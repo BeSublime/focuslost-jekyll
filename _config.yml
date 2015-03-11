@@ -1,5 +1,7 @@
 # Site settings
 title: focus lost
+author: Cory Evan Wright
+author_url: http://coryevan.com
 email: BeSublime@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
