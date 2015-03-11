@@ -12,6 +12,7 @@ github_username:  jekyll
 
 # Conversion
 markdown: kramdown
+highlighter: rouge
 
 # Serving
 host:    0.0.0.0
